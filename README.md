@@ -7,12 +7,12 @@
 - Compatible with all mobile devices and with a pleasant user interface.
 
 ### Resources:
-Icons: [https://remixicon.com/]
-CDN Icons: [https://cdnjs.com/libraries/remixicon]
-Fonts: [https://fonts.google.com/]
-Swiper: [https://swiperjs.com/]
-GSAP: [https://gsap.com/]
-Original Images: [https://www.freepik.com/]
+- Icons: [https://remixicon.com/]
+- CDN Icons: [https://cdnjs.com/libraries/remixicon]
+- Fonts: [https://fonts.google.com/]
+- Swiper: [https://swiperjs.com/]
+- GSAP: [https://gsap.com/]
+- Original Images: [https://www.freepik.com/]
 
 ### View Live Website:
 Rev Responsive: [https://rev-responsive.netlify.app/]
